@@ -1,0 +1,12 @@
+#include "martini_v2.2.itp"
+#include "martini_v2.0_DOPC_02.itp"
+
+[ system ]
+; name
+Test system for making a pore. 
+   
+[ molecules ]
+; name        number
+DOPC           169
+DOPC           169
+W             2748

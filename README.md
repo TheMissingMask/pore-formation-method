@@ -1,6 +1,8 @@
 # pore-formation-method
 
-### to construct a single pore in a small DOPC bilayer ###
+## simple illustration of method for creating holes in lipid bilayers in gromacs
+
+### creates a single pore in a small DOPC bilayer
 
 1) mkdir initial
 2) mv * initial
